@@ -1,0 +1,36 @@
+Tasks/HELP.md
+Tasks/target/
+Tasks/!.mvn/wrapper/maven-wrapper.jar
+Tasks/!**/src/main/**/target/
+Tasks/!**/src/test/**/target/
+
+### STS ###
+Tasks/.apt_generated
+Tasks/.classpath
+Tasks/.factorypath
+Tasks/.project
+Tasks/.settings
+Tasks/.springBeans
+Tasks/.sts4-cache
+
+### IntelliJ IDEA ###
+Tasks/.idea
+Tasks/*.iws
+Tasks/*.iml
+Tasks/*.ipr
+
+### NetBeans ###
+Tasks/nbproject/private/
+Tasks/nbbuild/
+Tasks/dist/
+Tasks/nbdist/
+Tasks/.nb-gradle/
+Tasks/build/
+Tasks/!**/src/main/**/build/
+Tasks/!**/src/test/**/build/
+
+### VS Code ###
+Tasks/.vscode/
+
+### ENV ###
+Tasks/.env
